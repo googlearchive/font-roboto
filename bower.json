@@ -1,0 +1,10 @@
+{
+  "name": "font-roboto",
+  "version": "0.5.5",
+  "homepage": "https://github.com/Polymer/font-roboto",
+  "authors": [
+    "The Polymer Project Authors"
+  ],
+  "main": "roboto.html",
+  "license": "BSD-3-Clause"
+}
